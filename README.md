@@ -10,7 +10,7 @@ A TSQL analysis of a fictitious, Mexico based Toy Store Chain. We'll use just un
 * [Business Tasks and EDA](https://github.com/danny814/Toy-Store-Analysis/blob/main/proj_03_business_tasks.md)
 
 ## Data Used
-Four datasets are used for this project:
+Four datasets are used for this project, which can be found on [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales):
 * __inventory.csv__: Dataset containing the store ID, product ID, and the stock on hand for each product.
 
 * __products.csv__: Details on products including price, cost, name, ID, and the category they belong in.
