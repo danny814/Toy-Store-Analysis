@@ -8,7 +8,7 @@ __LinkedIn__: https://www.linkedin.com/in/danielperez12/ <br />
 A TSQL analysis of a fictitious, Mexico based Toy Store Chain. We'll use just under 2 years of sales data across 50 locations to answer some business tasks and provide informed recommendations based on our analysis.
 
 * [Business Tasks and EDA](https://github.com/danny814/Toy-Store-Analysis/blob/main/proj_03_business_tasks.md)
-* [Regional Profit Analysis](https://public.tableau.com/app/profile/danny.perez/viz/SalesPerformancebyRegion_17076995143740/RegionalDashboard)
+* [Regional Profit Analysis in Tableau](https://public.tableau.com/app/profile/danny.perez/viz/SalesPerformancebyRegion_17076995143740/RegionalDashboard)
 
 ## Data Used
 Four datasets are used for this project, which can be found on [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales):
