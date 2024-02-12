@@ -9,6 +9,7 @@ A TSQL analysis of a fictitious, Mexico based Toy Store Chain. We'll use just un
 
 * [Business Tasks and EDA](https://github.com/danny814/Toy-Store-Analysis/blob/main/proj_03_business_tasks.md)
 * [Regional Profit Analysis in Tableau](https://public.tableau.com/app/profile/danny.perez/viz/SalesPerformancebyRegion_17076995143740/RegionalDashboard)
+* [Analysis-Based Recommendations](https://github.com/danny814/Toy-Store-Analysis/blob/main/toy_store_recs.md)
 
 ## Data Used
 Four datasets are used for this project, which can be found on [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales):
