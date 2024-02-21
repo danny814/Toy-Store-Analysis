@@ -20,3 +20,8 @@ Four datasets are used for this project, which can be found on [Kaggle](https://
 * __sales.csv__: About 2 years of sales data including the time, quantity, and store ID of each product ID purchased.
 
 * __stores.csv__: Dataset containing store IDs, the city they are located in, their unique name, and what part of the city they're in.
+
+## Table Schema
+
+![Screenshot 2024-02-20 184652](https://github.com/danny814/Toy-Store-Analysis/assets/139296999/5d7117f2-2e02-4640-9276-7fa65b1fc3a6)
+
